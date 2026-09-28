@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/carvestat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Carve color stat values and contrast-safe presentation helpers.",
+  "bin": {
+    "carvestat": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/carvestat.git"
+  },
+  "homepage": "https://theworker02.github.io/carvestat/",
+  "keywords": [
+    "carve",
+    "stat",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
